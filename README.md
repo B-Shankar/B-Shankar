@@ -18,14 +18,11 @@ Driven by full-stack development and lifelong learning.
 
 # 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhimashankar1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhimashankar1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=B-Shankar&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhimashankar1&theme=dark&hide_border=false" />
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Shankar&theme=tokyonight&hide_border=false&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=B-Shankar&theme=tokyonight&hide_border=false)
 
 ---
 
