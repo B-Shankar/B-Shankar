@@ -6,7 +6,7 @@ Driven by full-stack development and lifelong learning.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@ Driven by full-stack development and lifelong learning.
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=B-Shankar&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -26,7 +26,7 @@ Driven by full-stack development and lifelong learning.
 
 ---
 
-## Contact
+## Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhimashankar1/">
