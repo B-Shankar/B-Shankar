@@ -32,9 +32,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=B-Shankar&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=B-Shankar&theme=tokyonight&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Shankar&theme=tokyonight&hide_border=false&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=B-Shankar&theme=tokyonight&hide_border=false)
 
 ---
 
