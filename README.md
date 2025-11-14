@@ -22,9 +22,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,spring,react,ts,html,css,tailwind,vite,redux,nodejs,mysql,postgres,mongodb,aws,docker,kafka,git,github,postman,figma,gradle,arduino,bootstrap,materialui&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,html,css,regex,spring,react,nextjs,redux,nodejs,fastapi,vite,tailwind,bootstrap,materialui,mysql,postgres,mongodb,redis,aws,docker,kafka,git,github,maven,gradle,npm,postman,figma,eclipse,idea,pycharm,vscode,webstorm,sublime,jest,ubuntu,svg,arduino&theme=dark&perline=10" />
   </a>
 </p>
+
 
 ---
 
