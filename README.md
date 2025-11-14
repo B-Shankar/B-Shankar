@@ -1,13 +1,8 @@
-<!-- <h1 align="center">Hello there!</h1> --> 
 
-# 👋 Hey, I'm **Bhimashankar**
+# Hey, I'm **Bhimashankar**
 
-🌟 *In Pursuit Of Excellence.*  
-💻 E&C Graduate turned **Software Engineer**, passionate about solving real-world problems through clean code, scalable systems, and intuitive design.  
-🚀 I love building innovative, impactful solutions that matter.  
-🌐 Skilled in **Full-Stack Development**, working across diverse technologies to bring ideas to life.  
-🎨 My vibe? Apps that don’t just *work* — they *connect* with people.  
-🤝 Believer in collaboration, open-source, and continuous learning.
+Software Engineer and E&C graduate building reliable, real-world solutions.  
+Driven by full-stack development and lifelong learning.
 
 ---
 
@@ -23,11 +18,14 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=B-Shankar&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhimashankar1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhimashankar1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Shankar&theme=tokyonight&hide_border=false&layout=compact)
-
-![](https://nirzak-streak-stats.vercel.app/?user=B-Shankar&theme=tokyonight&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhimashankar1&theme=dark&hide_border=false" />
+</div>
 
 ---
 
@@ -47,11 +45,5 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
----
-
-### 👁️ Visitor Count  
-[![](https://visitcount.itsvg.in/api?id=B-Shankar&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ---
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
