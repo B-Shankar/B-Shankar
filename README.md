@@ -11,13 +11,6 @@
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhimashankar1/)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhimashankar_)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.bhimashankar@gmail.com)
-
----
-
 # 💻 Tech Stack
 
 <p align="center">
@@ -26,9 +19,7 @@
   </a>
 </p>
 
-
 ---
-
 
 # 📊 GitHub Stats
 
@@ -38,7 +29,24 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=B-Shankar&theme=tokyonight&hide_border=false)
 
+---
 
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhimashankar1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/bhimashankar_">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/b.shankar._/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:work.bhimashankar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 ---
 
 ### 👁️ Visitor Count  
